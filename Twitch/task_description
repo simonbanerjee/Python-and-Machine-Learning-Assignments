@@ -1,0 +1,9 @@
+Twitch Part 2: Visualize Data with Matplotlib
+
+Twitch
+Welcome to Part 2 of the Twitch Project. In this part of the project, you will be taking your findings from the SQL queries and visualize them using Python and Matplotlib, in the forms of:
+
+Bar Graph: Featured Games
+Pie Chart: Stream Viewers’ Locations
+Line Graph: Time Series Analysis
+The Twitch Science Team provided this practice dataset. You can download the .csv files (800,000 rows) from GitHub.
